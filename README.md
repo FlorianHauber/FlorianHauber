@@ -23,7 +23,7 @@ I'm a student at **HTL Leonding**, currently visiting CSI and learning my way ar
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,git,github,vscode,visualstudio" alt="Technologies and tools">
+  <img src="https://skillicons.dev/icons?i=cs,c,git,github" alt="Technologies and tools">
 </p>
 
 ---
